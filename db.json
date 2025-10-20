@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Meeting at School",
+      "day": "Feb 6th at 3:00pm",
+      "reminder": true
+    },
+    {
+      "id": 3576,
+      "text": "job interview",
+      "day": "jun 15 at 1:30pm",
+      "reminder": false
+    },
+    {
+      "text": "build weather app using react",
+      "day": "2024-08-14",
+      "reminder": true,
+      "id": 3577
+    },
+    {
+      "text": "finish CSS",
+      "day": "2024-11-08",
+      "reminder": false,
+      "id": 3578
+    }
+  ]
+}
